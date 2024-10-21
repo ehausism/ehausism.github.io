@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ehausism.github.io/ehausism.txt.gz
+Sitemap: https://ehausism.github.io/app/ehausism.txt.gz
+Sitemap: https://ehausism.github.io/assets/ehausism.txt.gz
+Sitemap: https://ehausism.github.io/css/ehausism.txt.gz
+Sitemap: https://ehausism.github.io/includes/ehausism.txt.gz
+Sitemap: https://ehausism.github.io/item/ehausism.txt.gz
+Sitemap: https://ehausism.github.io/src/ehausism.txt.gz
